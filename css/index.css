@@ -1,0 +1,29 @@
+html, body{
+    height: 200%;
+    width: 100%;
+    background: #272727;
+    color: #F0EAD6;
+    text-align: center;
+}
+.image {
+    background: url("../img/mainBackground.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+}
+.image .heading {
+    color: white;
+    text-align: center;
+}
+h1{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    padding: 0;
+    margin: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about{
+    margin-top: 50px;
+}
