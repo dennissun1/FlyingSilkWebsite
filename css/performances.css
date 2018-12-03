@@ -1,0 +1,11 @@
+.bodySection#performances {
+    height: auto;
+    display: wrap;
+}
+
+iframe {
+    width: 400px;
+    margin-left: 40px; 
+    margin-right: 40px;
+    align-content: space-around;
+}
