@@ -12,13 +12,12 @@
     font-size: 2em;
     color: rgb(244, 188, 48);
 }
+.navbar-default .navbar-brand:focus {
+    color: rgb(244, 188, 48);
+}
 .navbar-default .navbar-brand:hover {
     color: rgb(244, 188, 48);
     border: 1px solid rgb(244, 188, 48);
-}
-.navbar-default .navbar-nav > li > a {
-    color: rgb(244, 188, 48);
-    margin: 10px 5px 5px 5px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
     color: rgb(244, 188, 48);
