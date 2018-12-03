@@ -10,54 +10,54 @@
 .navbar-default .navbar-brand {
     margin-top: 10px;
     font-size: 2em;
-    color: #DAA520;
+    color: rgb(244, 188, 48);
 }
 .navbar-default .navbar-brand:hover {
-    color: #DAA520;
-    border: 1px solid #DAA520;
+    color: rgb(244, 188, 48);
+    border: 1px solid rgb(244, 188, 48);
 }
 .navbar-default .navbar-nav > li > a {
-    color: #DAA520;
+    color: rgb(244, 188, 48);
     margin: 10px 5px 5px 5px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
-    color: #DAA520;
-    border: 1px solid #DAA520;
+    color: rgb(244, 188, 48);
+    border: 1px solid rgb(244, 188, 48);
 }
 .navbar-default .navbar-nav > li > a:visited {
-    color: #DAA520;
+    color: rgb(244, 188, 48);
     text-decoration: none;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     background-color: transparent;
-    color: #DAA520;
+    color: rgb(244, 188, 48);
 }
 .navbar-default .navbar-toggle {
-    border-color: #DAA520;
+    border-color: rgb(244, 188, 48);
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #B24745;
+    background-color: #ba3431;
 }
 .navbar-default .navbar-toggle .icon-bar {
-    color: #DAA520;
-    background-color: #DAA520;
+    color: rgb(244, 188, 48);
+    background-color: rgb(244, 188, 48);
 }
 .navbar-default .navbar-collapse.collapse.in ul {
-    background-color: #B24745;
+    background-color: #ba3431;
 }
 
 /* Solid class attached on scroll past first section */
 .navbar.solid {
-    background-color: #B24745;
+    background-color: #ba3431;
     transition: background-color 1s ease 0s;
     box-shadow: 0 0 4px grey;
 }
 .navbar.solid .navbar-brand {
-    color: #DAA520;
+    color: rgb(244, 188, 48);
     transition: color 1s ease 0s;
 }
 .navbar.solid .navbar-nav > li > a {
-    color: #DAA520;
+    color: rgb(244, 188, 48);
     transition: color 1s ease 0s;
 }
 
