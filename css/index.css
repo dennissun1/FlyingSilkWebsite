@@ -53,3 +53,8 @@ h3{
 #about .aboutText{
     text-align: left;
 }
+#performances .aboutText{
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
