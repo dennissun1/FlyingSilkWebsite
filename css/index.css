@@ -24,6 +24,8 @@ h2{
     margin-top: 50px;
     margin-bottom: 50px;
     font-size: 3em;
+        font-family: 'Paprika', cursive;
+
 }
 h3{
     margin-top: 50px;
@@ -38,6 +40,7 @@ h3{
     visibility: none;
     pointer-events: none;
 }
+
 .aboutText{
     font-size: 1.5em;
     width: 70%;
