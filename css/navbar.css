@@ -7,7 +7,9 @@
     transition: background-color 1s ease 0s;
     font-family: 'Paprika', cursive;
 }
-
+.navbar-toggle {
+    margin-top: 20px;
+}
 .navbar-default .navbar-brand {
     margin-top: 10px;
     font-size: 2em;
