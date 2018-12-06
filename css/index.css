@@ -73,3 +73,12 @@ h3{
     color: #F0EAD6;
     text-decoration:none;
 }
+
+.fa {
+    padding: 40px;
+    color: #ba3431;
+}
+
+.fa:hover {
+    color: #daa520;
+}
