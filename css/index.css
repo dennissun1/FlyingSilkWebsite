@@ -23,6 +23,11 @@ h2{
     margin: 0;
     margin-top: 50px;
     margin-bottom: 50px;
+    font-size: 3em;
+}
+h3{
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .bodySection::before{
@@ -32,4 +37,19 @@ h2{
     height: 80px; 
     visibility: none;
     pointer-events: none;
+}
+.aboutText{
+    font-size: 1.5em;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.events{
+    font-size: 1.5em;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#about .aboutText{
+    text-align: left;
 }
