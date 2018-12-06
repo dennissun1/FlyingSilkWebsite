@@ -75,8 +75,8 @@ h3{
 }
 
 .fa {
-    padding: 40px;
     color: #ba3431;
+    margin: 40px;
 }
 
 .fa:hover {
