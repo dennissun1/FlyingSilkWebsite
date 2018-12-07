@@ -74,14 +74,18 @@ h3{
     text-decoration:none;
 }
 
+footer {
+    background-color: #ba3431;
+}
+
 .fa {
-    color: #ba3431;
+    color: #272727;
     margin: 40px;
 }
 
 .fa:hover {
-    color: #daa520;
+    color: #272727;
 }
 .fa:focus {
-    color: #daa520;
+    color: #272727;
 }
