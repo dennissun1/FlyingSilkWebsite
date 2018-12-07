@@ -73,3 +73,15 @@ h3{
     color: #F0EAD6;
     text-decoration:none;
 }
+
+.fa {
+    color: #ba3431;
+    margin: 40px;
+}
+
+.fa:hover {
+    color: #daa520;
+}
+.fa:focus {
+    color: #daa520;
+}
